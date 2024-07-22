@@ -1,5 +1,7 @@
 # emotion-cnn
 Сверточная нейронная сеть для распознавания 1 из 5 эмоций на фото.
+Папка Dataset должна находиться по тому же пути, что и исполняемый файл. 
+Датасет: https://disk.yandex.ru/d/KBJgJDrS-v_Ufw
 
 Пример входных данных для обученения. 
 ![image](https://github.com/user-attachments/assets/05fec559-75ef-491f-86b4-7e047142dd34)
